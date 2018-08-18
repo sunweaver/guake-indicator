@@ -20,7 +20,7 @@ Boston, MA 02111-1307, USA.
 
 #include <string.h>
 #include <gtk/gtk.h>
-#include <libappindicator/app-indicator.h>
+#include <libayatana-appindicator/app-indicator.h>
 #include "guake-indicator.h"
 #include "guake-indicator-read-json.h"
 #include "guake-indicator-write-json.h"
